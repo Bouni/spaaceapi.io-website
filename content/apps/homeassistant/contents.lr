@@ -16,7 +16,4 @@ download1_label: Home-Assistant.io
 ---
 download1_url: https://www.home-assistant.io/integrations/spaceapi/
 ---
-space: Reaktor23
----
-space_url: https://reaktor23.org
----
+
